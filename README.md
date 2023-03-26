@@ -29,7 +29,7 @@ In this project, let's build a **VR - Demo** by applying the concepts that are m
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://res.cloudinary.com/harikrishnar/image/upload/v1679824498/VR_-_KIT_myreqh.png" alt="vr-demo" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://res.cloudinary.com/harikrishnar/image/upload/v1679825324/VR_-_KIT_1_mzqxzr.jpg" alt="vr-demo" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>   
 <summary>Font-families</summary>
