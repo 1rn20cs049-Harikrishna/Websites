@@ -4,7 +4,7 @@ This websites are RESPONSIVE AND STATIC  Built By using HTML , CSS , BOOTSTRAP ,
 ## FOOD - MUNCH
 [VIEW THIS WEBSITE](https://hari09foodmuch.ccbp.tech/)
 
-In this project, let's build a **FOOD - MUNCH** by applying the concepts we have learned till now.
+In this project, let's build a **FOOD - MUNCH** by applying the concepts that are mentioned in the description.
 
 ### Refer to the image below:
 
