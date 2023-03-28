@@ -32,24 +32,19 @@ In this project, let's build a **VR - Demo** by applying the concepts that are m
     <img src="https://res.cloudinary.com/harikrishnar/image/upload/v1679825324/VR_-_KIT_1_mzqxzr.jpg" alt="vr-demo" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>   
-<summary>Font-families</summary>
-
-- Roboto
-
-</details>
-
-
-
-
-
-
 
 
 
 ## Wiki-Search
 [VIEW THIS WEBSITE](https://hari09wikipedia.ccbp.tech/)
 
-In this project, let's build a ** Wiki-Search ** by applying the concepts that are mentioned in the description.
+In this project, let's build a **Wiki-Search** by applying the concepts that are mentioned in the description.
+
+#### Append text to end  of the given link  for searching
+```text
+ https://apis.ccbp.in/wiki-search?search=
+```
+  
 
 ### Refer to the image below:
 
@@ -58,6 +53,38 @@ In this project, let's build a ** Wiki-Search ** by applying the concepts that a
     <img src="https://res.cloudinary.com/harikrishnar/image/upload/v1680018352/wikipedia_rjjlpy.png" alt="wiki-search" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>   
+
+
+
+
+
+## Type - Speed
+[VIEW THIS WEBSITE](https://hari09typespeed.ccbp.tech/)
+
+In this project, let's build a **Type-Speed** by applying the concepts that are mentioned in the description.
+
+
+ #### is used to get random quotes      
+```text
+  https://apis.ccbp.in/random-quote
+```
+
+<details>
+    Fetch API is used to fetch resources from above api    
+    Once the resource is obtained , it is updated on UI using JS    
+ </details>
+
+  
+ 
+
+### Refer to the image below:
+
+<br/>
+<div style="text-align: center;">
+    <img src="https://res.cloudinary.com/harikrishnar/image/upload/v1680022640/type-speed_rdkk8k.png" alt="wiki-search" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+</div>
+<br/>   
+<details>
 <summary>Font-families</summary>
 
 - Roboto
