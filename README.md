@@ -84,6 +84,23 @@ In this project, let's build a **Type-Speed** by applying the concepts that are 
     <img src="https://res.cloudinary.com/harikrishnar/image/upload/v1680022640/type-speed_rdkk8k.png" alt="wiki-search" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>   
+
+## TIP - CALCULATOR
+[VIEW THIS WEBSITE](https://hari09tipcalc.ccbp.tech/)
+
+#### Website consist of Four inputBox where in which user needs to provide input in first two input boxes and then should click on **calculate button** and result will be seen in remaining two input boxes...if anything wrong input provides by user then appropriate message is sent.
+
+In this project, let's build a **TIP - CALCULATOR** by applying the concepts that are mentioned in the description.
+
+### Refer to the image below:
+
+<br/>
+<div style="text-align: center;">
+    <img src="https://res.cloudinary.com/harikrishnar/image/upload/v1681126993/tipcalc_joox0n.png" alt="tip-calculator" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+</div>
+<br/>
+
+
 <details>
 <summary>Font-families</summary>
 
